@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justellie&label=Profile%20views&color=0e75b6&style=flat" alt="justellie" /> </p>
 
-- 🌱 I’m currently learning **React, GraphQL and Docker**
+- 🌱 I’m currently learning **kubernetes and Docker**
 
 - 💬 Ask me about **Python and SQL**
 
