@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+<h1 align="center">Hi 👋, I'm Ellie</h1>
 <h3 align="center">I’m a passionate full stack developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justellie&label=Profile%20views&color=0e75b6&style=flat" alt="justellie" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and SQL**
 
-- 📫 Reach me at **elioruiz.en@gmail.com**
+- 📫 Reach me at **elliemirandaruizn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
